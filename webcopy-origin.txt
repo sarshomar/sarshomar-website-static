@@ -1,0 +1,352 @@
+Uri: https://sarshomar.com/
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\index.htm
+Content Type: text/html
+
+Uri: https://sarshomar.com/about
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\about.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/account/billing
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\account\billing.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/benefits
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\benefits.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/benefits/easy-access
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\benefits\easy-access.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/benefits/essay-type-questions
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\benefits\essay-type-questions.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/benefits/graphic-results
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\benefits\graphic-results.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/benefits/guest
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\benefits\guest.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/benefits/knowledge-base
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\benefits\knowledge-base.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/benefits/language-localization
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\benefits\language-localization.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/benefits/multimedia-questions
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\benefits\multimedia-questions.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/benefits/question-charts
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\benefits\question-charts.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/benefits/results-output
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\benefits\results-output.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/benefits/social-networks
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\benefits\social-networks.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/benefits/target-statistical-population
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\benefits\target-statistical-population.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/benefits/valid-population
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\benefits\valid-population.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/benefits/without-disturbance
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\benefits\without-disturbance.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/contact
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\contact.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/eco
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\eco.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/enter
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\enter.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/enter/signup
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\enter\signup.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/enter?referer=https://sarshomar.com/account/billing
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\enter-1.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/enter?referer=https://sarshomar.com/fa/account/billing
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\enter-5.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/enter?referer=https://sarshomar.com/fa/support
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\enter-6.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/enter?referer=https://sarshomar.com/fa/support/ticket
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\enter-7.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/enter?referer=https://sarshomar.com/fa/support/ticket/add
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\enter-8.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/enter?referer=https://sarshomar.com/support
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\enter-2.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/enter?referer=https://sarshomar.com/support/ticket
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\enter-3.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/enter?referer=https://sarshomar.com/support/ticket/add
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\enter-4.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/about
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\about.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/account/billing
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\account\billing.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/benefits
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\benefits.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/benefits/easy-access
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\benefits\easy-access.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/benefits/essay-type-questions
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\benefits\essay-type-questions.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/benefits/graphic-results
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\benefits\graphic-results.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/benefits/guest
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\benefits\guest.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/benefits/knowledge-base
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\benefits\knowledge-base.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/benefits/language-localization
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\benefits\language-localization.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/benefits/multimedia-questions
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\benefits\multimedia-questions.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/benefits/question-charts
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\benefits\question-charts.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/benefits/results-output
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\benefits\results-output.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/benefits/social-networks
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\benefits\social-networks.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/benefits/target-statistical-population
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\benefits\target-statistical-population.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/benefits/valid-population
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\benefits\valid-population.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/benefits/without-disturbance
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\benefits\without-disturbance.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/contact
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\contact.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/eco
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\eco.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/enter
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\enter.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/enter/signup
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\enter\signup.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/enter?referer=https://sarshomar.com/account/billing
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\enter-1.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/enter?referer=https://sarshomar.com/fa/account/billing
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\enter-3.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/enter?referer=https://sarshomar.com/fa/support
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\enter-4.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/enter?referer=https://sarshomar.com/fa/support/ticket
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\enter-7.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/enter?referer=https://sarshomar.com/fa/support/ticket/add
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\enter-8.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/enter?referer=https://sarshomar.com/support
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\enter-2.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/enter?referer=https://sarshomar.com/support/ticket
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\enter-5.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/enter?referer=https://sarshomar.com/support/ticket/add
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\enter-6.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/humans.txt
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\humans.txt.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/logo
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\logo.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/manifest.webmanifest
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\manifest.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://sarshomar.com/fa/press
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\press.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/pricing
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\pricing.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/privacy
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\privacy.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/social-responsibility
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\social-responsibility.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/support
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\support.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/support/ticket
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\support\ticket.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/support/ticket/add
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\support\ticket\add.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/target/agencies
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\target\agencies.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/target/developers-and-webmasters
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\target\developers-and-webmasters.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/target/organizations-and-companies
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\target\organizations-and-companies.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/target/universities-and-research-institutes
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\target\universities-and-research-institutes.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/fa/terms
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\fa\terms.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/humans.txt
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\humans.txt
+Content Type: text/plain
+
+Uri: https://sarshomar.com/logo
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\logo.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/manifest.webmanifest
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\manifest.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://sarshomar.com/press
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\press.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/pricing
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\pricing.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/privacy
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\privacy.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/social-responsibility
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\social-responsibility.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/support
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\support.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/support/ticket
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\support\ticket.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/support/ticket/add
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\support\ticket\add.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/target/agencies
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\target\agencies.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/target/developers-and-webmasters
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\target\developers-and-webmasters.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/target/organizations-and-companies
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\target\organizations-and-companies.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/target/universities-and-research-institutes
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\target\universities-and-research-institutes.html
+Content Type: text/html
+
+Uri: https://sarshomar.com/terms
+File Name: D:\web\projects\github\sarshomar-website-static\test1\sarshomar.com\terms.html
+Content Type: text/html
+

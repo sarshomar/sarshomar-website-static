@@ -1,0 +1,20 @@
+{
+    "name": "sarshomar | از هرکسی در هرجایی بپرسید",
+    "short_name": "sarshomar",
+    "description": "روی سوال خود تمرکز کنید؛ دغدغه چطور پرسیدن و تحلیل کردن نداشته باشید.",
+    "dir": "rtl",
+    "lang": "fa-IR",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#1a2733",
+    "scope": "/",
+    "start_url": "https://sarshomar.com/fa?utm_source=pwa",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "type": "image/png",
+            "sizes": "512x512",
+            "src": "https://sarshomar.com/static/images/logo/png/sarshomar-logo-512.png"
+        }
+    ]
+}
